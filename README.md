@@ -1,4 +1,4 @@
-# ⚽ Segundo Cérebro: André Hernan - Jornalista Esportivo - Bastidores e Carreira com IA
+# ⚽ Segundo Cérebro com IA: Análise de Bastidores e Carreira de André Hernan
 
 ##### 📖 Contexto e Objetivos
 Este projeto é um **Caderno Temático** desenvolvido no **Google NotebookLM**. O objetivo é criar um "Segundo Cérebro" focado na carreira e no conteúdo do jornalista **André Hernan**. 
