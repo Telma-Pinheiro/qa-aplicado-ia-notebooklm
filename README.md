@@ -46,11 +46,30 @@ Embora ele seja torcedor declarado do Tricolor Paulista, sua atuação profissio
 . A informação foi revelada de forma não intencional durante a participação do jornalista em um podcast
 . No âmbito profissional, ele é reconhecido pela imparcialidade e pelo acesso a informações de bastidores de diversos clubes
 
-### 🔄 Variações e Refinamentos de Prompt 
+### 🔄 Variações e Refinamentos de Prompt
 
-Além das perguntas diretas, foram utilizados prompts mais analíticos para aprofundar a qualidade das respostas da IA:
+Além das perguntas diretas, foram utilizados prompts mais analíticos para avaliar a capacidade da IA de interpretar e classificar informações:
 
-"Diferencie o que é notícia confirmada de especulação de mercado nas fontes citadas."
+**Prompt:** "Diferencie o que é notícia confirmada de especulação de mercado nas fontes citadas."
+
+> **Resposta da IA:**
+Nas fontes citadas, é possível distinguir os fatos já concretizados e oficiais das movimentações que ainda pertencem ao campo das sondagens, desejos ou planejamento estratégico.
+
+**Notícias Confirmadas:**
+- Mudanças de comando, como a saída de treinadores e novas contratações
+- Boletins médicos oficiais divulgados por clubes
+- Transferências concluídas de jogadores
+- Informações documentadas sobre carreira profissional
+- Parcerias e contratos de marketing
+
+**Especulações e Planejamento de Mercado:**
+- Planejamento futuro de contratações
+- Sondagens e interesses não concretizados
+- Negociações inexistentes apesar de boatos
+- Rumores e projeções sobre jogadores
+
+**Análise:**
+A IA demonstrou boa capacidade de estruturar e classificar as informações em categorias claras, separando fatos confirmados de especulações. No entanto, a resposta ainda apresenta generalizações e não evidencia claramente a origem de cada informação nas fontes, o que pode impactar a rastreabilidade e a precisão da análise.
 
 ### 🛠️ Cicatrizes (Troubleshooting):
 * **Desafio:** A IA teve dificuldade em trazer a data certa da pergunta, ela respondeu, mas não trouxe apenas a data, incluiu também informações adicionais sobre a lesão. Pedi pra ser sucinto. Até diminuiu a informação, mas ainda trouxe informações mais do que o suficiente. 
