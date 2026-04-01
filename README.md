@@ -3,7 +3,7 @@
 ##### 📖 Contexto e Objetivos
 Este projeto é um **Caderno Temático** desenvolvido no **Google NotebookLM**. O objetivo é criar um "Segundo Cérebro" focado na carreira e no conteúdo do jornalista **André Hernan**. 
 
-Como **Analista de Testes**, utilizei este desafio para validar a capacidade de extração de insights a partir de dados não estruturados (vídeos e textos), aplicando pensamento crítico na análise das respostas da IA e organizando informações relevantes sobre o mercado da bola e a trajetória do jornalista.
+Como **Analista de Testes**, utilizei este desafio para validar a capacidade de extração de insights a partir de dados não estruturados (vídeos e textos), aplicando pensamento crítico na avaliação da qualidade das respostas da IA e organizando informações relevantes sobre o mercado da bola e a trajetória do jornalista.
 
 
 ## 🔍 Curadoria de Fontes
@@ -26,7 +26,7 @@ Utilizei uma mistura de mídias para alimentar a inteligência do caderno:
 ## 🧠 Engenharia de Prompts e "Cicatrizes"
 
 #### Fase 1: Exploração
-**Prompt 1:** "Qual data ele trouxe informação sobre lesão de calleri?"
+**Prompt 1:** "Qual data ele trouxe informação sobre "lesão de Calleri?"
 
 > **Resposta da IA:** 
 Com base nos registros das fontes e na data atual de março de 2026, a informação foi trazida em outubro de 2025 (período correspondente aos "5 meses atrás" indicados nos vídeos)
@@ -69,6 +69,7 @@ Nas fontes citadas, é possível distinguir os fatos já concretizados e oficiai
 - Rumores e projeções sobre jogadores
 
 **Análise:**
+
 A IA demonstrou boa capacidade de estruturar e classificar as informações em categorias claras, separando fatos confirmados de especulações. No entanto, a resposta ainda apresenta generalizações e não evidencia claramente a origem de cada informação nas fontes, o que pode impactar a rastreabilidade e a precisão da análise.
 
 ### 🛠️ Cicatrizes (Troubleshooting):
