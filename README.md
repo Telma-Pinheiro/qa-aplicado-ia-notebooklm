@@ -24,6 +24,7 @@ Utilizei uma mistura de mídias para alimentar a inteligência do caderno:
 * [Artigo acadêmico sobre jornalismo esportivo (Even3)](https://static.even3.com/anais/558060.pdf?v=638978860389976287)
 
 ## 🧠 Engenharia de Prompts e "Cicatrizes"
+
 #### Fase 1: Exploração
 **Prompt 1:** "Qual data ele trouxe informação sobre lesão de calleri?"
 
@@ -36,7 +37,7 @@ Com base nos registros das fontes e na data atual de março de 2026, a informaç
 De acordo com as fontes, essa informação sobre o seu time do coração foi revelada de forma não intencional durante a participação do jornalista em um podcast
 Embora ele seja torcedor declarado do Tricolor Paulista, sua atuação profissional é amplamente reconhecida pela cobertura imparcial de diversos clubes, especialmente os grandes de São Paulo como Palmeiras e Corinthians.
 >
-**Prompt 3:** "Quero que seja mais sucinto nessa resposta?
+**Prompt 3:** "Quero que seja mais sucinto nessa resposta"
 **Resposta da IA:**
   André Hernan é torcedor do São Paulo FC
 . A informação foi revelada de forma não intencional durante a participação do jornalista em um podcast
@@ -49,7 +50,38 @@ Embora ele seja torcedor declarado do Tricolor Paulista, sua atuação profissio
 
 ### 🛠️ Cicatrizes (Troubleshooting):
 * **Desafio:** A IA teve dificuldade em trazer a data certa da pergunta, ela até respondeu, mas não trouxe somente a data, trouxe informação sobre a lesão. Pedi pra ser sucinto. Até diminuiu a informação, mas ainda trouxe informações mais do que o suficiente. 
----
+
+## 🧪 Aplicação de QA na Análise com IA
+
+Durante o desenvolvimento do projeto, apliquei conceitos de QA (Qualidade de Software) na interação com a IA, indo além da simples consulta de informações.
+
+### 🔍 Análise e Organização de Dados
+A partir de dados não estruturados (vídeos e textos), realizei a interpretação, avaliação e organização das informações, extraindo apenas os pontos relevantes para análise.
+
+Essa abordagem é semelhante ao trabalho de um Analista de Testes ao lidar com requisitos e logs de sistema, que muitas vezes são incompletos ou pouco claros. Assim como nos logs, onde é necessário interpretar mensagens técnicas e correlacioná-las com o contexto para identificar problemas, neste projeto foi preciso analisar as respostas da IA, filtrar informações excessivas e identificar os dados realmente úteis.
+
+Dessa forma, apliquei um raciocínio investigativo para transformar informações dispersas em conhecimento estruturado.
+
+### 🧠 Validação de Respostas da IA
+Foram identificados alguns comportamentos relevantes da IA:
+- Respostas excessivamente verbosas
+- Falta de objetividade em perguntas específicas
+- Dificuldade em retornar apenas dados pontuais (ex: datas)
+
+Esses pontos foram analisados como critérios de qualidade das respostas.
+
+### 🔄 Teste Iterativo de Prompts
+A interação com a IA seguiu um ciclo semelhante ao processo de testes:
+- Definição do prompt inicial
+- Análise da resposta obtida
+- Refinamento do prompt
+- Nova validação da resposta
+
+### 🚀 Conexão com QA para IA Generativa
+O projeto também demonstra conceitos iniciais de QA aplicado à IA, como:
+- Validação de respostas de modelos
+- Avaliação de precisão e objetividade
+- Redução de ambiguidades via refinamento de prompts
 
 ## 📚 Miniguia de Estudo (Entrega Final)
 
