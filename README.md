@@ -39,17 +39,18 @@ André Hernan é torcedor do São Paulo FC
 De acordo com as fontes, essa informação sobre o seu time do coração foi revelada de forma não intencional durante a participação do jornalista em um podcast
 Embora ele seja torcedor declarado do Tricolor Paulista, sua atuação profissional é amplamente reconhecida pela cobertura imparcial de diversos clubes, especialmente os grandes de São Paulo como Palmeiras e Corinthians.
 >
-**Prompt 3 (Refinando):** "Quero que seja mais sucinto nessa resposta"
+**Prompt 3 (Refinamento):** "Quero que seja mais sucinto nessa resposta?"
 
 **Resposta da IA:**
   André Hernan é torcedor do São Paulo FC
 . A informação foi revelada de forma não intencional durante a participação do jornalista em um podcast
 . No âmbito profissional, ele é reconhecido pela imparcialidade e pelo acesso a informações de bastidores de diversos clubes
 
-#### Fase 2: Extração Técnica
-**Prompt:** "o jornalista Andre Hernan torce para qual time?."
+### 🔄 Variações e Refinamentos de Prompt 
 
-* **Fase 3 (Refinamento):** "Diferencie o que é notícia confirmada de especulação de mercado nas fontes citadas".
+Além das perguntas diretas, foram utilizados prompts mais analíticos para aprofundar a qualidade das respostas da IA:
+
+"Diferencie o que é notícia confirmada de especulação de mercado nas fontes citadas."
 
 ### 🛠️ Cicatrizes (Troubleshooting):
 * **Desafio:** A IA teve dificuldade em trazer a data certa da pergunta, ela respondeu, mas não trouxe apenas a data, incluiu também informações adicionais sobre a lesão. Pedi pra ser sucinto. Até diminuiu a informação, mas ainda trouxe informações mais do que o suficiente. 
