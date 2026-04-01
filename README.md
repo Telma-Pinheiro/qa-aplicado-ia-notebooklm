@@ -73,7 +73,7 @@ Nas fontes citadas, é possível distinguir os fatos já concretizados e oficiai
 A IA demonstrou boa capacidade de estruturar e classificar as informações em categorias claras, separando fatos confirmados de especulações. No entanto, a resposta ainda apresenta generalizações e não evidencia claramente a origem de cada informação nas fontes, o que pode impactar a rastreabilidade e a precisão da análise.
 
 ### 🛠️ Cicatrizes (Troubleshooting):
-* **Desafio:** A IA teve dificuldade em trazer a data certa da pergunta, ela respondeu, mas não trouxe apenas a data, incluiu também informações adicionais sobre a lesão. Pedi pra ser sucinto. Até diminuiu a informação, mas ainda trouxe informações mais do que o suficiente. 
+* **Desafio:** Identifiquei uma falha na assertividade de dados pontuais: o modelo apresentou dificuldade em respeitar a restrição de formato (retornar apenas a data), apresentando informações excedentes mesmo após o refinamento do prompt para concisão.
 
 ## 🧪 Aplicação de QA na Análise com IA
 
