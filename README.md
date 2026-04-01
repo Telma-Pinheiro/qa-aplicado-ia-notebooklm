@@ -33,7 +33,8 @@ Com base nos registros das fontes e na data atual de março de 2026, a informaç
 . André Hernan ressalta que os detalhes foram baseados em um boletim médico divulgado pelo São Paulo em uma sexta-feira
 
 > **Prompt 2:** "O jornalista Andre Hernan torce para qual time?."
-> **Resposta da IA:** André Hernan é torcedor do São Paulo FC
+> **Resposta da IA:**
+André Hernan é torcedor do São Paulo FC
 De acordo com as fontes, essa informação sobre o seu time do coração foi revelada de forma não intencional durante a participação do jornalista em um podcast
 Embora ele seja torcedor declarado do Tricolor Paulista, sua atuação profissional é amplamente reconhecida pela cobertura imparcial de diversos clubes, especialmente os grandes de São Paulo como Palmeiras e Corinthians.
 >
