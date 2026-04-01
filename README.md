@@ -3,7 +3,7 @@
 ##### 📖 Contexto e Objetivos
 Este projeto é um **Caderno Temático** desenvolvido no **Google NotebookLM**. O objetivo é criar um "Segundo Cérebro" focado na carreira e no conteúdo do jornalista **André Hernan**. 
 
-Como **Analista de Testes**, apliquei este desafio para validar a extração de *insights* de uma massa de dados não estruturada (vídeos e textos), organizando informações sobre o mercado da bola e a trajetória profissional do jornalista.
+Como **Analista de Testes**, utilizei este desafio para validar a capacidade de extração de insights a partir de dados não estruturados (vídeos e textos), aplicando pensamento crítico na análise das respostas da IA e organizando informações relevantes sobre o mercado da bola e a trajetória do jornalista.
 
 
 ## 🔍 Curadoria de Fontes
