@@ -39,7 +39,7 @@ André Hernan é torcedor do São Paulo FC
 De acordo com as fontes, essa informação sobre o seu time do coração foi revelada de forma não intencional durante a participação do jornalista em um podcast
 Embora ele seja torcedor declarado do Tricolor Paulista, sua atuação profissional é amplamente reconhecida pela cobertura imparcial de diversos clubes, especialmente os grandes de São Paulo como Palmeiras e Corinthians.
 >
-**Prompt 3:** "Quero que seja mais sucinto nessa resposta"
+**Prompt 3 (Refinando):** "Quero que seja mais sucinto nessa resposta"
 
 **Resposta da IA:**
   André Hernan é torcedor do São Paulo FC
