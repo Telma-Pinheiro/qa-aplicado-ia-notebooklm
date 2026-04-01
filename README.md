@@ -1,4 +1,4 @@
-# ⚽ Segundo Cérebro: André Hernan - Bastidores e Carreira com IA
+# ⚽ Segundo Cérebro: André Hernan - Jornalista Esportivo - Bastidores e Carreira com IA
 
 ##### 📖 Contexto e Objetivos
 Este projeto é um **Caderno Temático** desenvolvido no **Google NotebookLM**. O objetivo é criar um "Segundo Cérebro" focado na carreira e no conteúdo do jornalista **André Hernan**. 
@@ -32,7 +32,7 @@ Utilizei uma mistura de mídias para alimentar a inteligência do caderno:
 Com base nos registros das fontes e na data atual de março de 2026, a informação foi trazida em outubro de 2025 (período correspondente aos "5 meses atrás" indicados nos vídeos)
 . André Hernan ressalta que os detalhes foram baseados em um boletim médico divulgado pelo São Paulo em uma sexta-feira
 
-> **Prompt 2:** "o jornalista Andre Hernan torce para qual time?."
+> **Prompt 2:** "O jornalista Andre Hernan torce para qual time?."
 > **Resposta da IA:** André Hernan é torcedor do São Paulo FC
 De acordo com as fontes, essa informação sobre o seu time do coração foi revelada de forma não intencional durante a participação do jornalista em um podcast
 Embora ele seja torcedor declarado do Tricolor Paulista, sua atuação profissional é amplamente reconhecida pela cobertura imparcial de diversos clubes, especialmente os grandes de São Paulo como Palmeiras e Corinthians.
@@ -49,7 +49,7 @@ Embora ele seja torcedor declarado do Tricolor Paulista, sua atuação profissio
 * **Fase 3 (Refinamento):** "Diferencie o que é notícia confirmada de especulação de mercado nas fontes citadas".
 
 ### 🛠️ Cicatrizes (Troubleshooting):
-* **Desafio:** A IA teve dificuldade em trazer a data certa da pergunta, ela até respondeu, mas não trouxe somente a data, trouxe informação sobre a lesão. Pedi pra ser sucinto. Até diminuiu a informação, mas ainda trouxe informações mais do que o suficiente. 
+* **Desafio:** A IA teve dificuldade em trazer a data certa da pergunta, ela respondeu, mas não trouxe apenas a data, incluiu também informações adicionais sobre a lesão. Pedi pra ser sucinto. Até diminuiu a informação, mas ainda trouxe informações mais do que o suficiente. 
 
 ## 🧪 Aplicação de QA na Análise com IA
 
