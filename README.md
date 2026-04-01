@@ -1,38 +1,54 @@
 # ⚽ Segundo Cérebro: André Hernan - Bastidores e Carreira com IA
 
-## 📖 Contexto e Objetivos
+##### 📖 Contexto e Objetivos
 Este projeto é um **Caderno Temático** desenvolvido no **Google NotebookLM**. O objetivo é criar um "Segundo Cérebro" focado na carreira e no conteúdo do jornalista **André Hernan**. 
 
 Como **Analista de Testes**, apliquei este desafio para validar a extração de *insights* de uma massa de dados não estruturada (vídeos e textos), organizando informações sobre o mercado da bola e a trajetória profissional do jornalista.
 
----
 
 ## 🔍 Curadoria de Fontes
 Utilizei uma mistura de mídias para alimentar a inteligência do caderno:
 
 ### 📺 Conteúdo Audiovisual (YouTube)
-* **Canal André Hernan**: https://www.youtube.com/@andrehernan
-* **Palmeiras e reforços 2026**: https://www.youtube.com/watch?v=m69QigzBJNs
-* **Roger Machado no São Paulo**: https://www.youtube.com/watch?v=tSbJA7138Wo
-* **Shorts FShow**: https://www.youtube.com/shorts/UZxxxJyV3AQ
+* **Canal André Hernan**: [Acessar canal](https://www.youtube.com/@andrehernan)
+* **Palmeiras e reforços 2026**: [Assistir vídeo](https://www.youtube.com/watch?v=m69QigzBJNs)
+* **Roger Machado no São Paulo**: [Assistir vídeo](https://www.youtube.com/watch?v=tSbJA7138Wo)
+* **Shorts FShow**: [Assistir vídeo](https://www.youtube.com/shorts/UZxxxJyV3AQ)
 
+### 📄 Conteúdo Textual Complementar
+
+* Matéria do portal Lance com análise de André Hernan sobre cenário do futebol brasileiro: [Acessar matéria](https://www.lance.com.br/fora-de-campo/andre-hernan-analisa-chances-da-selecao-brasileira-na-copa-do-mundo.html)
+  
 ### 📄 Conteúdo Textual e Acadêmico
-* **Wikipédia - André Hernan**: https://pt.wikipedia.org/wiki/Andr%C3%A9_Hernan#
-* **Artigo Even3 (Análise)**: https://static.even3.com/anais/558060.pdf?v=638978860389976287
-
----
+* [Perfil de André Hernan na Wikipédia](https://pt.wikipedia.org/wiki/Andr%C3%A9_Hernan#)
+* [Artigo acadêmico sobre jornalismo esportivo (Even3)](https://static.even3.com/anais/558060.pdf?v=638978860389976287)
 
 ## 🧠 Engenharia de Prompts e "Cicatrizes"
+#### Fase 1: Exploração
+**Prompt 1:** "Qual data ele trouxe informação sobre lesão de calleri?"
 
-### Estratégia de Prompts:
-* **Fase 1 (Exploração):** "Quem é André Hernan e qual sua importância no jornalismo esportivo?".
-* **Fase 2 (Extração Técnica):** "Com base nos vídeos, liste as negociações do Palmeiras para 2026 e o status de cada uma".
+> **Resposta da IA:** 
+Com base nos registros das fontes e na data atual de março de 2026, a informação foi trazida em outubro de 2025 (período correspondente aos "5 meses atrás" indicados nos vídeos)
+. André Hernan ressalta que os detalhes foram baseados em um boletim médico divulgado pelo São Paulo em uma sexta-feira
+
+> **Prompt 2:** "o jornalista Andre Hernan torce para qual time?."
+> **Resposta da IA:** André Hernan é torcedor do São Paulo FC
+De acordo com as fontes, essa informação sobre o seu time do coração foi revelada de forma não intencional durante a participação do jornalista em um podcast
+Embora ele seja torcedor declarado do Tricolor Paulista, sua atuação profissional é amplamente reconhecida pela cobertura imparcial de diversos clubes, especialmente os grandes de São Paulo como Palmeiras e Corinthians.
+>
+**Prompt 3:** "Quero que seja mais sucinto nessa resposta?
+**Resposta da IA:**
+  André Hernan é torcedor do São Paulo FC
+. A informação foi revelada de forma não intencional durante a participação do jornalista em um podcast
+. No âmbito profissional, ele é reconhecido pela imparcialidade e pelo acesso a informações de bastidores de diversos clubes
+
+#### Fase 2: Extração Técnica
+**Prompt:** "o jornalista Andre Hernan torce para qual time?."
+
 * **Fase 3 (Refinamento):** "Diferencie o que é notícia confirmada de especulação de mercado nas fontes citadas".
 
 ### 🛠️ Cicatrizes (Troubleshooting):
-* **Desafio:** A IA teve dificuldade em separar notícias de 2025 e 2026 nos primeiros testes.
-* **Solução:** Inclusão de um comando de contexto temporal, exigindo que a IA citasse a data da fonte antes de cada resposta.
-
+* **Desafio:** A IA teve dificuldade em trazer a data certa da pergunta, ela até respondeu, mas não trouxe somente a data, trouxe informação sobre a lesão. Pedi pra ser sucinto. Até diminuiu a informação, mas ainda trouxe informações mais do que o suficiente. 
 ---
 
 ## 📚 Miniguia de Estudo (Entrega Final)
@@ -46,7 +62,6 @@ O projeto sintetiza a transição de André Hernan da TV tradicional para o suce
 * **Troféu ACEESP:** Principal reconhecimento da crônica esportiva paulista, vencido repetidamente por Hernan.
 
 ### Prompts Reutilizáveis
-> "Crie um resumo dos últimos 3 'furos' de reportagem presentes nestas fontes, destacando o clube envolvido."
+> "Crie um resumo dos últimos 3 'furos' de reportagem presentes nestas fontes, destacando os clubes envolvidos."
 
----
-*Projeto desenvolvido para o bootcamp da DIO - 2026.*
+
