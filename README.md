@@ -1,10 +1,12 @@
 # ⚽ Segundo Cérebro com IA: Análise de Bastidores e Carreira do jornalista esportivo André Hernan
 
 ##### 📖 Contexto e Objetivos
-Este projeto é um **Caderno Temático** desenvolvido no **Google NotebookLM**. O objetivo é criar um "Segundo Cérebro" focado na carreira e no conteúdo do jornalista **André Hernan**. 
 
-Como **Analista de Testes**, utilizei este desafio para validar a capacidade de extração de insights a partir de dados não estruturados (vídeos e textos), aplicando pensamento crítico na avaliação da qualidade das respostas da IA e organizando informações relevantes sobre o mercado da bola e a trajetória do jornalista.
+Este projeto consiste em um **Caderno Temático** desenvolvido no **Google NotebookLM**, com o objetivo de criar um "Segundo Cérebro" focado na trajetória profissional e nos bastidores do jornalista André Hernan.
 
+Como **Analista de Testes**, utilizei este desafio para aplicar conceitos de **QA** em IA Generativa. O foco foi validar a capacidade de extração de insights a partir de dados não estruturados (vídeos e textos), aplicando pensamento crítico para avaliar a qualidade das respostas, realizar o refinamento iterativo de prompts e analisar o comportamento do modelo diante de informações complexas do mercado da bola.
+
+O projeto demonstra na prática como técnicas de Quality Assurance podem ser utilizadas para estruturar conhecimentos e garantir a precisão de informações em ferramentas de Inteligência Artificial.
 
 ## 🔍 Curadoria de Fontes
 Utilizei uma mistura de mídias para alimentar a inteligência do caderno:
@@ -39,7 +41,7 @@ André Hernan é torcedor do São Paulo FC
 De acordo com as fontes, essa informação sobre o seu time do coração foi revelada de forma não intencional durante a participação do jornalista em um podcast
 Embora ele seja torcedor declarado do Tricolor Paulista, sua atuação profissional é amplamente reconhecida pela cobertura imparcial de diversos clubes, especialmente os grandes de São Paulo como Palmeiras e Corinthians.
 >
-**Prompt 3 (Refinamento):** "Quero que seja mais sucinto nessa resposta?"
+**Prompt 3 (Refinamento):** "Quero que seja mais sucinto nessa resposta"
 
 **Resposta da IA:**
   André Hernan é torcedor do São Paulo FC
